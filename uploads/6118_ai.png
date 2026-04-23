@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot POST /models/stabilityai/stable-diffusion-xl-base-1.0</pre>
+</body>
+</html>
