@@ -1,0 +1,5 @@
+art.env
+artguard.db
+uploads/
+__pycache__/
+*.pyc
